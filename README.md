@@ -109,7 +109,7 @@ streamlit run apps/admin.py
 ---
 
 <div align="center">
-<sub>Desenvolvido por Kalebe Vasconcelos com apoio de Google Gemini AI</sub>
+<sub>Desenvolvido por Kalebe Vasconcelos</sub>
 </div>
 
 ```
