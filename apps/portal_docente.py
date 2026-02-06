@@ -54,6 +54,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.title("👨‍🏫 Portal do Docente")
+st.warning("Aviso: esta aplicacao esta em testes e pode apresentar instabilidades.")
 st.write("Bem-vindo(a)! Consulte sua alocação de salas.")
 
 # --- SELEÇÃO DE PROFESSOR ---

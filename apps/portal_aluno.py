@@ -42,6 +42,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.title("🎓 Portal do Aluno")
+st.warning("Aviso: esta aplicacao esta em testes e pode apresentar instabilidades.")
 st.write("Consulte sua sala e horários da semana.")
 
 # --- FILTROS DE SELEÇÃO ---
