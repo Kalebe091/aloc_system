@@ -46,7 +46,7 @@ st.warning("Aviso: esta aplicacao esta em testes e pode apresentar instabilidade
 st.write("Consulte sua sala e horários da semana.")
 
 # --- FILTROS DE SELEÇÃO ---
-st.info("👇 Selecione seu curso e turma para ver a grade.")
+st.info("👇 Selecione seu curso e turma para ver a grade.") 
 
 # 1. Selecionar Curso
 df_cursos = db.run_query("SELECT id_curso, nome FROM tb_cursos ORDER BY nome")
