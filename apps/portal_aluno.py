@@ -44,6 +44,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.title("🎓 Portal do Aluno")
+st.warning("Aviso: Esta aplicação está em testes e pode apresentar instabilidades.")
 st.write("Consulte sua grade horária e sala de aula.")
 
 # --- FILTROS DE SELEÇÃO ---
